@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "REST API for BackBench",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmRev/BackendChallenge.git"
+  },
+  "author": "Aman Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmRev/BackendChallenge/issues"
+  },
+  "homepage": "https://github.com/AmRev/BackendChallenge#readme"
+}
