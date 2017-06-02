@@ -41,10 +41,10 @@ Happy hacking, and have fun!
 
 # How to run the app??
 
-* You need to install node.js and MongoDB on machine first.
-* Create a database named ** backbench ** with ** audit ** named collection.
-* Go to the cloned directory and run **npm install** to install the dependencies.
-* Start the MongoDB server and run ** node app **.
+* You need to install Node.js and MongoDB on machine first.
+* Create a database named**backbench**with**audit**named collection.
+* Go to the cloned directory and run**npm install**to install the dependencies.
+* Start the MongoDB server and run**node app**.
 * Now, you are good to do HTTP requests.
 
-# In case of any queries, contact me ** amrev.happy@gmail.com **.
+In case of any queries, contact me**amrev.happy@gmail.com**.
