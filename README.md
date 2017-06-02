@@ -37,3 +37,14 @@ Here are somethings we're watching out for:
 If you're up for the challenge, fork this repository and complete your entire solution there. Feel free to use any stack of your choice, and we're open to partial feature submissions as well. Just see it as an opportunity to know each other technically.
 
 Happy hacking, and have fun!
+
+
+# How to run the app??
+
+* You need to install node.js and MongoDB on machine first.
+* Create a database named ** backbench ** with ** audit ** named collection.
+* Go to the cloned directory and run **npm install** to install the dependencies.
+* Start the MongoDB server and run ** node app **.
+* Now, you are good to do HTTP requests.
+
+# In case of any queries, contact me ** amrev.happy@gmail.com **.
